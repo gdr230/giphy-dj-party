@@ -1,0 +1,38 @@
+/* CSS Document */
+body {
+    font:50px arial;
+    color: #222;
+    text-align:center;
+    padding:35px 350px 35px 350px;
+    background-color: #615D64 }
+  
+p, span {
+    margin:0;
+    padding:0; }
+  
+div.hashtag {
+    height: 2em;
+    position: relative }
+
+div.hashtag p {
+    margin: 0;
+    background: yellow;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) }
+
+  
+img {
+	height: 100%;
+	width: 100%;
+	max-height: 650px;
+	min-height: 650px;
+    overflow: hidden;
+    box-shadow: 10px 10px 50px #888888;}
+    
+#gradient
+{
+  margin: 0px;
+}
