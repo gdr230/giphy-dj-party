@@ -1,5 +1,4 @@
-# giffy-dj-party
-## Giffy DJ Party
+## Giphy DJ Party
 
 ~ Welcome to the Giffy DJ Party ~
 This primarily is just a fun toy to have on the background of a party if that's your cup-o-tea!
