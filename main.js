@@ -1,5 +1,5 @@
 var keyword = "dope party";
-var keywords = ["dope party", "bubble gum", "halloween", "drake", "starcraft", "two dots", "vampires", "puppies","kitties"];
+var keywords = ["dope party", "bubble gum", "bubsy", "flowers", "starcraft", "french horn", "vampires", "puppies","kitties"];
 
 function GiphySetter()
 {	
